@@ -1,0 +1,51 @@
+body{
+  font-family: sans-serif;
+}
+h1{
+  color: #009688;
+  font-size: 18px;
+  text-align: center;
+  font-style: italic;
+}
+h2{
+  color: #009688;
+  text-decoration: underline;
+  font-weight: normal;
+  text-align: left;
+  font-size: 16px;
+}
+h3{
+  color: #009688;
+  text-decoration: underline;
+  font-weight: normal;
+  text-align: left;
+  font-size: 16px;
+}
+
+h4{
+  color: #009688;
+  text-decoration: underline;
+  font-weight: normal;
+  text-align: left;
+  font-size: 16px;
+}
+
+h5{
+  color: #009688;
+  text-decoration: underline;
+  font-weight: normal;
+  text-align: left;
+  font-size: 16px;
+}
+
+li{
+  color:black;
+  font-size: 14px;
+  line-height: 2em;
+}
+
+p{
+  text-align: justify;
+  font-size: 14px;
+  line-height: 2em;
+}
